@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Route, Routes, Navigate } from "react-router-dom"
-import LoginForm from "./login-form"
-import Dashboard from "./dashboard"
+import LoginForm from "./Login-form.jsx"
+import Dashboard from "./Dashboard.jsx"
 
 const App = () => {
     return (
