@@ -1,6 +1,7 @@
 {
   "name": "github-actions",
   "private": true,
+  "homepage": "https://iamdhruv21.github.io/github-actions",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
